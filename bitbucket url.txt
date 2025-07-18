@@ -1,0 +1,4 @@
+<!-- Add this to your Contact section or footer to include your Bitbucket site URL -->
+<p>
+  Bitbucket: <a href="https://bitbucket.org/your-team-or-username/your-repo-name" target="_blank">https://bitbucket.org/your-team-or-username/your-repo-name</a>
+</p>

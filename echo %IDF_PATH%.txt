@@ -1,0 +1,1 @@
+echo %IDF_PATH%
